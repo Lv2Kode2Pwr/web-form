@@ -1,2 +1,19 @@
 # web-form
-Form &amp; input field in Vue.js/Vue 3; v-model for 2-way data binding; keyboard events; &amp; how to react to form submissions
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
